@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BettWatch Updates</title>
+    <link>https://github.com/zhvz4k8p69-beep/mac-updates</link>
+    <description>Signed macOS updates for BettWatch.</description>
+    <language>en</language>
+  </channel>
+</rss>
