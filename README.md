@@ -8,6 +8,7 @@ notarized builds and their appcasts are published here.
 |-----|--------------------------------------------|---------------------|
 | BettWatch | `releases/download/updates/BettWatch-appcast.xml` | `BettWatch-v<marketing>-<build>` |
 | BettMoney | `releases/download/updates/BettMoney-appcast.xml` | `BettMoney-v<marketing>-<build>` |
+| Ready Room | `releases/download/updates/ReadyRoom-appcast.xml` | `ReadyRoom-v<marketing>-<build>` |
 
 Each app's feed URL is baked into its `Info.plist` (`SUFeedURL`); never rename or
 move a feed asset. Versioned releases are immutable: upload the zip, then replace
