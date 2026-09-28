@@ -11,6 +11,7 @@ notarized builds and their appcasts are published here.
 | Ready Room | `releases/download/updates/ReadyRoom-appcast.xml` | `ReadyRoom-v<marketing>-<build>` |
 | TroopLedger | `releases/download/updates/TroopLedger-appcast.xml` | `TroopLedger-v<marketing>-<build>` |
 | Foley | `releases/download/updates/Foley-appcast.xml` | `Foley-v<marketing>-<build>` |
+| Quill & Dagger | `releases/download/updates/QuillDagger-appcast.xml` | `QuillDagger-v<marketing>-<build>` |
 
 Each app's feed URL is baked into its `Info.plist` (`SUFeedURL`); never rename or
 move a feed asset. Versioned releases are immutable: upload the zip, then replace
