@@ -12,6 +12,7 @@ notarized builds and their appcasts are published here.
 | TroopLedger | `releases/download/updates/TroopLedger-appcast.xml` | `TroopLedger-v<marketing>-<build>` |
 | Foley | `releases/download/updates/Foley-appcast.xml` | `Foley-v<marketing>-<build>` |
 | Quill & Dagger | `releases/download/updates/QuillDagger-appcast.xml` | `QuillDagger-v<marketing>-<build>` |
+| Chapterhouse | `releases/download/updates/Chapterhouse-appcast.xml` | `Chapterhouse-v<marketing>-<build>` |
 
 Each app's feed URL is baked into its `Info.plist` (`SUFeedURL`); never rename or
 move a feed asset. Versioned releases are immutable: upload the zip, then replace
